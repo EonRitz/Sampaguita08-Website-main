@@ -37,4 +37,13 @@
     .title-ext {
       display: none;
     }
+    .carousel-content1 {
+        padding: 2rem;
+    }
+    .carousel-content2 {
+        padding: 2rem;
+    }
+    .carousel-content3 {
+        padding: 2rem;
+    }
   }
