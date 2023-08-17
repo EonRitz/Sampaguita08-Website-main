@@ -1,0 +1,34 @@
+.carousel-content1 {
+    background-image: url('images/hero_img1\ 1.png');
+    background-size: 100%;
+    background-position: center;
+    padding: 6rem;
+    color: white;
+}
+.carousel-content2 {
+    background-image: url('images/hero_img2\ 1.png');
+    background-size: 100%;
+    background-position: center;
+    padding: 6rem;
+    color: white;
+}
+.carousel-content3 {
+    background-image: url('images/hero_img3\ 1.png');
+    background-size: 100%;
+    background-position: center;
+    padding: 6rem;
+    color: white;
+}
+
+.page-content {
+    padding: 2rem;
+}
+
+.page-content2 {
+    padding: 2rem;
+    background-image: url('images/hero_img2\ 1.png');
+    background-size: 100%;
+    background-position: center;
+    color: white;
+
+}
